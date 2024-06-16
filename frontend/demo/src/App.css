@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.login-form {
+  max-width: 300px;
+  margin: auto;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
+
+.login-form div {
+  margin-bottom: 1em;
+}
+
+.login-form label {
+  margin-bottom: .5em;
+  color: #333333;
+  display: block;
+}
+
+.login-form input {
+  border: 1px solid #CCCCCC;
+  padding: .5em;
+  font-size: 1em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.login-form button {
+  padding: 0.7em;
+  color: #fff;
+  background-color: #007BFF;
+  border: none;
+  border-radius: .3em;
+  cursor: pointer;
+}
+
+.login-form button:disabled {
+  background-color: #CCCCCC;
+}
+
+.login-form p {
+  color: red;
+}
