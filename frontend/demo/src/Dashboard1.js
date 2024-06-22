@@ -33,7 +33,7 @@ function Dashboard() {
 
   return (
     <div className="dashboard-container">
-      <h1>Dashboard</h1>
+      <h1>Search Machines here for the Treatments</h1>
       <div className="search-container">
         <input
           type="text"

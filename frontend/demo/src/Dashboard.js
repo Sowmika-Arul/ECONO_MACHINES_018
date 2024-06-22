@@ -55,7 +55,7 @@ function Dashboard() {
 
   return (
     <div className="dashboard-container">
-      <h1>Dashboard</h1>
+      <h1>Machines and Treatments</h1>
       <button className="add-button" onClick={handleAddClick}>Add New Entry</button>
       {showForm && (
         <div className="form-container">

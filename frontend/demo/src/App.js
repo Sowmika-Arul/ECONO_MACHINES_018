@@ -22,7 +22,7 @@
 // export default App;
 
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes,Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import LoginForm from './LoginForm';
 import Dashboard from './Dashboard';
 import Dashboard1 from './Dashboard1';
