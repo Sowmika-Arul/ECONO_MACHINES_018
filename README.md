@@ -1,6 +1,6 @@
 ## Website to find Machines for certain Treatments
 
-<h1>Login page</h1>
+<h3>Login page</h3>
 <div align="center">
     <img src="https://github.com/Sowmika-Arul/ECONO_MACHINES_018/assets/171491614/99ce88df-85bf-487a-a721-45f70a9cbc1b" alt="Screenshot 1" width="800" height="500">
 </div><br><br>
